@@ -1,0 +1,36 @@
+.navbar{
+    background-color: black;
+    text-align: center;
+}
+.navbar h1{
+    color: white;
+   
+}
+.navbar a{
+    text-decoration: none;
+    color: tomato;
+    margin-left: 15px;
+}
+.about h1{
+    text-align: center;
+}
+.about img{
+    margin-left: 580px;
+    width: 300px;
+    border-radius: 10px 0;
+}
+.section h1 {
+    text-align: center;
+}
+.footer{
+    background-color: grey;
+    text-align: center;
+}
+.footer h3{
+    color: white;
+}
+ .footer a{
+    text-decoration: none;
+    color: tomato;
+    margin-left: 15px;
+ }
